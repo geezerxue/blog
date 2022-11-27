@@ -1,6 +1,5 @@
 +++
 title = "RegExp"
-author = ["cl"]
 date = 2022-11-27T15:51:00+08:00
 lastmod = 2022-11-27T15:51:20+08:00
 draft = false
